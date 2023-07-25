@@ -36,7 +36,7 @@ a::before {
     box-shadow: 5px 5px 0px #000000;
     margin-right: 0;
     transition: transform 100ms linear;
-}
+} 
 
 #button:hover {
     transform: scale(1.08);
