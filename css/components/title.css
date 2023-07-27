@@ -1,6 +1,13 @@
-h1 {
+.title {
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
     color: #f25a70;
     text-shadow: 4px 4px 0 #000000;
+}
+
+/*Variacao do component title*/
+.title.-second {
+    color: #ffffff;
+    text-shadow: none;
+    text-align: center;
 }
